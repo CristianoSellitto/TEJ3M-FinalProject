@@ -18,8 +18,8 @@ unsigned int sZeroPin = 5;
 unsigned int sOnePin = 4;
 unsigned int sTwoPin = 3;
 unsigned int sThreePin = 2;
-unsigned int mPin = 1;
-unsigned int carryPin = 0;
+unsigned int mPin = 1;      // Technically not a usable pin
+unsigned int carryPin = 0;  // Technically not a usable pin
 
 // Sign text variable
 char signText = '?';
