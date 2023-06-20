@@ -301,7 +301,7 @@ void loop()
                               Serial.println("- New Sequence -");
                               Serial.print("M = ");
                               Serial.println(mInput);
-                              Serial.print("iCₙ = ");
+                              Serial.print("!Cₙ = ");
                               Serial.println(carryInInvert);
                               Serial.print("S = ");
                               Serial.print(sThree);
